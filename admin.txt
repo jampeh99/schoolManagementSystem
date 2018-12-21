@@ -1,0 +1,4 @@
+root pass
+jj jerry
+admin password
+admin password
